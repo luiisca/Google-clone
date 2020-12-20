@@ -191,3 +191,10 @@ footer section {
 .footer_second a {
     margin-top: 0.9rem;
 }
+/* Hidden items */
+.left_first--1024, .left_second--1024, .input_search--1024, .input_voice--1024, .footer_second--1024, .buttons--1024 {
+    text-indent:-666em;
+    overflow:hidden;
+    position: absolute;
+    margin: -666em;
+}

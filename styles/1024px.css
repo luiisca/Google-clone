@@ -32,7 +32,7 @@ header {
     margin: -666em;
 }
 .left_first--1024, .left_second--1024 {
-    text-indent: 0em;
+    /* text-indent: 0em; */
     width: 60px;
     transform: scaleY(1);
 } 
