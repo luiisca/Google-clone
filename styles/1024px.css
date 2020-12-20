@@ -32,7 +32,9 @@ header {
     margin: -666em;
 }
 .left_first--1024, .left_second--1024 {
-    /* text-indent: 0em; */
+    text-indent: 0;
+    position: initial;
+    margin: 0;
     width: 60px;
     transform: scaleY(1);
 } 
@@ -69,9 +71,15 @@ header {
     margin: -666em;
 }
 .input_search--1024, .input_voice--1024 {
+    text-indent: 0;
+    position: initial;
+    margin: 0;
     width: 2rem;
 }
-.buttons {
+.buttons--1024 {
+    text-indent: 0;
+    position: initial;
+    margin: 0;
     width: 58.4rem;
     height: 7rem;
     padding-top: 1.8rem;
@@ -139,4 +147,9 @@ footer section {
 .footer_first, .footer_second {
     height: 100%;
     align-items: center;
+}
+.footer_second--1024 {
+    text-indent: 0;
+    position: initial;
+    margin: 0;
 }
