@@ -1,0 +1,22 @@
+/* Header */
+.left_first a, .left_second a {
+    font-size: 1.3rem;
+    transform: scaleY(1);
+}
+/* Main */
+.logo_img2 {
+    margin: 22.5vh 0 0 57vw ;
+}
+main {
+    margin-bottom: 10vh;
+}
+.languages {
+    margin-top: 1.7rem;
+}
+/* Footer */
+footer {
+    height: 25vh;
+}
+.footer_second a {
+    margin-top: 1rem;
+}
