@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 📃Google-clone ![Status badge](https://img.shields.io/badge/status-completed-green)
+=======
+# 🌐Google-clone ![Status badge](https://img.shields.io/badge/status-completed-green)
+>>>>>>> gh-pages
 
 In this project we will build a copy of Google. I hope you enjoy it almost as much as I enjoyed building it.
 ## 🚀DEMO
