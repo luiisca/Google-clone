@@ -87,6 +87,11 @@ header {
     justify-content: center;
     align-self: center;
 }
+.buttons--1024 button:hover {
+    border: 1px solid #dadce0;
+    box-shadow: 0 1px 1px #ececec;
+    color: #222;
+}
 .buttons_child1, .buttons_child2 {
     background-color: #f8f9fa;
     border: .1rem solid #f8f9fa;
